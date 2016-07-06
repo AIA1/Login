@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Web Application</title>
+	<title>My Web Application bitches</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 	<div class="header">
